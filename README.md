@@ -16,7 +16,7 @@ This project is tested against **tensorflow-gpu 2.7.0**, **keras 2.7.0-tf**, and
 cuda==11.2
 cudnn==8.2.0
 tensorflow-gpu==2.5.0  
-conda
+conda==4.12.0
 ~~~
 
 ## Reference
