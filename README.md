@@ -8,7 +8,7 @@ Compared to the [Mask_RCNN](https://github.com/matterport/Mask_RCNN) and [Mask-R
 1. `model.py`
 2. `utils.py`
 
-This project is tested against **tensorFlow-gpu 2.7.0**, **keras 2.7.0-tf**, and **python 3.8.12**. Note that the project will not run in TensorFlow 1.0.
+This project is tested against **tensorflow-gpu 2.7.0**, **keras 2.7.0-tf**, and **python 3.8.12**. Note that the project will not run in TensorFlow 1.0.
 
 
 ## Environment for Linux
